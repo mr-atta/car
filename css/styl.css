@@ -1,0 +1,25 @@
+img{
+    width: 1000px; 
+}
+
+body{
+    background-color: #01131F ;
+}
+h1{
+    text-align: center;
+    color: #F3BF1E;
+}
+p{
+    text-align: left ;
+    color: thistle;
+}
+nav ul li{
+    margin: 50px;
+    width: 400px ; 
+    padding: 20px;
+display: inline-block;
+}
+nav{
+    background-color: #f7e2a2;
+
+}
